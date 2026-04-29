@@ -1,1 +1,2 @@
-# hmtl.ba-ml-l-k
+# hmtl.bağımlılık
+Teknoloji bağımlılığı hakkında bilgilendirme
